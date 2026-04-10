@@ -1,5 +1,7 @@
 # Remotion Studio — timeline waveform alignment repro
 
+Tracked as [remotion-dev/remotion#7042](https://github.com/remotion-dev/remotion/issues/7042).
+
 ```bash
 npm install
 npm run studio
